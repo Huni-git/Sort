@@ -134,3 +134,7 @@ public class shellSort {
 
 ```
 ## 코드 결과
+![삽입 정렬](https://user-images.githubusercontent.com/80510945/116959182-c7810680-acd7-11eb-8ff8-58352cb8b907.jpg)
+![버블 정렬](https://user-images.githubusercontent.com/80510945/116959188-cea81480-acd7-11eb-983a-9dc21f43a83b.jpg)
+![선택 정렬](https://user-images.githubusercontent.com/80510945/116959196-d4055f00-acd7-11eb-92dc-14af35f98a57.jpg)
+![쉘 정렬](https://user-images.githubusercontent.com/80510945/116959201-d962a980-acd7-11eb-9476-a7ccf464b4e8.jpg)
