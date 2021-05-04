@@ -138,3 +138,6 @@ public class shellSort {
 ![버블 정렬](https://user-images.githubusercontent.com/80510945/116959188-cea81480-acd7-11eb-983a-9dc21f43a83b.jpg)
 ![선택 정렬](https://user-images.githubusercontent.com/80510945/116959196-d4055f00-acd7-11eb-92dc-14af35f98a57.jpg)
 ![쉘 정렬](https://user-images.githubusercontent.com/80510945/116959201-d962a980-acd7-11eb-9476-a7ccf464b4e8.jpg)
+
+## 코드 성능분석 with 표
+![정렬알고리즘_1](https://user-images.githubusercontent.com/80510945/116972321-cf4fa380-acf5-11eb-9f8e-cc43ab3d99c0.jpg)
